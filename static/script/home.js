@@ -24,6 +24,9 @@ const tips = [
     'Have you checked your grades at all this week?',
     'Desmond, It is real... i own this site',
     'better start working before that teacher gives you a F'
+    'hi it is me silas lol'
+    'your mom'
+    'pp sandwich'
 ];
 
 
